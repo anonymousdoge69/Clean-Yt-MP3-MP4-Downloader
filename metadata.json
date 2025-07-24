@@ -1,0 +1,5 @@
+{
+  "name": "Tangan Downloader",
+  "description": "A clean, modern, Apple-style UI for a YouTube to MP3/MP4 downloader app. Paste a link to preview, select format and quality, and simulate a download with real-time progress.",
+  "requestFramePermissions": []
+}
